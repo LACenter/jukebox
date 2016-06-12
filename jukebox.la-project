@@ -1,0 +1,18 @@
+19file=globals.pas
+20file=about.pas
+20file=libadd.pas
+20file=libdl.pas
+20file=mainform.pas
+73file=genre.pas
+73file=item.pas
+language=Pascal
+launcherid=LA-4167670279595126475510561
+macbundle=0
+macbundle-icon=
+mainfile=jukebox.pas
+publish-oncompile=1
+runparams=-external-lib=/home/xero/projects/ladev/sdk/extlib/libmp3tags.so
+targets=
+type= UI (Advanced User Interface)
+20file=delcollection.pas
+20file=radioadd.pas

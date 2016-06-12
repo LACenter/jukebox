@@ -1,0 +1,17 @@
+Chris Stapleton=Traveller
+002
+01 - Traveller=01.mp3
+02 - Fire Away=02.mp3
+03 - Tennessee Whiskey=03.mp3
+04 - Parachute=04.mp3
+05 - Whiskey and you=05.mp3
+06 - Nobody to Blame=06.mp3
+07 - More of You=07.mp3
+08 - When the stars come out=08.mp3
+09 - Daddy doesn't pray anymore=09.mp3
+10 - Might as well get stoned=10.mp3
+11 - Was it 26=11.mp3
+12 - The Devil Named Music=12.mp3
+13 - Outlaw state of mind=13.mp3
+14 - Sometimes I Cry=14.mp3
+

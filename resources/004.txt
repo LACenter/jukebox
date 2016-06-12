@@ -1,0 +1,16 @@
+Elvis=Orchestra
+004
+01 - Burning Love=01.mp3
+02 - It's Now or Never=02.mp3
+03 - Love Me Tender=03.mp3
+04 - Fever=04.mp3
+05 - Bridge Over Troubled Water=05.mp3
+06 - And the Grass Won't Pay No Mind=06.mp3
+07 - You've Lost That Lovin Feelin=07.mp3
+08 - There's Always Me=08.mp3
+09 - Can't Help Falling in Love=09.mp3
+10 - In the Ghetto=10.mp3
+11 - How Great Thou Art=11.mp3
+12 - Steamroller Blues=12.mp3
+13 - An American Trilogy=13.mp3
+14 - If I Can Dream=14.mp3
